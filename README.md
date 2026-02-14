@@ -98,3 +98,8 @@ Libraries:
 7. yfinance
 
 Deployment: Streamlit
+
+## 🌍 Live Demo
+
+[Click Here to Try the App](https://lstm-gold-price-forecasting-knbab6chktqtvzwfxwfk5k.streamlit.app)
+
